@@ -36,8 +36,8 @@ I'm always open to collaborating on interesting projects, especially those relat
 
 ## 📫 How to Reach Me
 
-- **Email:** [vivek@example.com](mailto:iamvivek1602.com)
-- **LinkedIn:** [linkedin.com/in/ucancallmevivek](https://linkedin.com/in/vivekverma20)
+- **Email:** [Mailme](mailto:iamvivek1602.com)
+- **LinkedIn:** [linkedin.com/in/ucancallmevivek](https://linkedin.com/in/vivekkverma20)
 - **GitHub:** [github.com/ucancallmevivek](https://github.com/ucancallmevivek)
 - **LeetCode:** [leetcode.com/verma-vivek20](https://leetcode.com/u/verma_vivek20/)
   
