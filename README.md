@@ -39,7 +39,7 @@ I'm always open to collaborating on interesting projects, especially those relat
 - **Email:** [Mailme](mailto:iamvivek1602.com)
 - **LinkedIn:** [Look for me on LinkedIn](https://linkedin.com/in/vivekkverma20)
 - **GitHub:** [Chec out my Github](https://github.com/ucancallmevivek)
-- **LeetCode:** Checkout my Lettcode](https://leetcode.com/u/verma_vivek20/)
+- **LeetCode:** [Checkout my Lettcode](https://leetcode.com/u/verma_vivek20/)
   
 ## 📈 GitHub Stats
 
