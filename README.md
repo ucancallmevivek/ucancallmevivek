@@ -1,24 +1,52 @@
-# 💫 About Me:
-📡 I'm currently working on AI Mental Health Companion Chatbot 💬<br>🤝 I'm looking to collaborate on open-source projects & cybersecurity initiatives<br>👐 I'm looking for help with DevOps best practices & AI integration<br>🌱 I'm currently learning Advanced DSA using Python, DevOps tools, and AI development<br>💬 Ask me about Web Development, Cybersecurity, and Software Engineering<br>⚡ Fun fact: I believe in simple yet impactful coding solutions!
+# Hi there, I'm Vivek! 👋
 
+I'm a passionate developer with a keen interest in open-source projects, web development, and continuous learning. I love to explore new technologies and apply them to solve real-world problems. Here's a little more about me:
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Ax8K6A79) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ucancallme__vivek/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekkverma20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekofficial79030@gmail.com) 
+## 🚀 Technologies & Tools
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ucancallmevivek&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ucancallmevivek&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ucancallmevivek&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- Languages: JavaScript, Python, Java, C++
+- Frontend: React, Angular, HTML5, CSS3, Sass
+- Backend: Node.js, Express, Django, Spring Boot
+- Databases: MySQL, MongoDB, PostgreSQL
+- DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
+- Cloud: AWS, Azure, Google Cloud Platform
+- Others: Git, Webpack, Babel, Jest, Firebase
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ucancallmevivek&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+## 💼 Professional Experience
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- **Software Engineer at [Tech Company]** *(2023 - Present)*
+  - Worked on developing and maintaining web applications using React and Node.js
+  - Integrated third-party APIs and services to enhance functionality
+  - Collaborated with cross-functional teams to deliver high-quality software
 
----
-[![](https://visitcount.itsvg.in/api?id=ucancallmevivek&icon=0&color=0)](https://visitcount.itsvg.in)
+- **Junior Developer at [Startup]** *(2021 - 2023)*
+  - Assisted in the development of a customer-facing web application using Angular
+  - Implemented RESTful APIs and database schemas
+  - Contributed to code reviews and maintained documentation
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌱 Currently Learning
+
+- Advanced TypeScript
+- Machine Learning and AI
+- Blockchain Technology
+
+## 👯 Let's Collaborate
+
+I'm always open to collaborating on interesting projects, especially those related to web development, open-source contributions, and innovative technologies. Feel free to reach out if you have something in mind!
+
+## 📫 How to Reach Me
+
+- **Email:** [vivek@example.com](mailto:iamvivek1602.com)
+- **LinkedIn:** [linkedin.com/in/ucancallmevivek](https://linkedin.com/in/vivekverma20)
+- **GitHub:** [github.com/ucancallmevivek](https://github.com/ucancallmevivek)
+- **LeetCode:** [leetcode.com/verma-vivek20](https://leetcode.com/u/verma_vivek20/)
+  
+## 📈 GitHub Stats
+
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ucancallmevivek&show_icons=true&theme=radical)
+
+## 🎨 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ucancallmevivek&layout=compact&theme=radical)
+
+Thanks for visiting my profile! 😊
