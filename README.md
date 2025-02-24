@@ -8,27 +8,15 @@ I'm a passionate developer with a keen interest in open-source projects, web dev
 - Frontend: React, Angular, HTML5, CSS3, Sass
 - Backend: Node.js, Express, Django, Spring Boot
 - Databases: MySQL, MongoDB, PostgreSQL
-- DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
 - Cloud: AWS, Azure, Google Cloud Platform
 - Others: Git, Webpack, Babel, Jest, Firebase
 
-## 💼 Professional Experience
-
-- **Software Engineer at [Tech Company]** *(2023 - Present)*
-  - Worked on developing and maintaining web applications using React and Node.js
-  - Integrated third-party APIs and services to enhance functionality
-  - Collaborated with cross-functional teams to deliver high-quality software
-
-- **Junior Developer at [Startup]** *(2021 - 2023)*
-  - Assisted in the development of a customer-facing web application using Angular
-  - Implemented RESTful APIs and database schemas
-  - Contributed to code reviews and maintained documentation
 
 ## 🌱 Currently Learning
 
-- Advanced TypeScript
+- Wb Development with MERN
 - Machine Learning and AI
-- Blockchain Technology
+- DSA with Java
 
 ## 👯 Let's Collaborate
 
